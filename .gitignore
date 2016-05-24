@@ -1,0 +1,19 @@
+# MacOS
+.DS_Store
+
+# NPM files
+node_modules
+npm-debug.log
+
+# Built files
+.sass-cache
+/public/css
+/public/js/vendor.js
+/public/js/app.js
+/public/js/app.js.map
+
+# WebStorm
+/.idea
+
+# Sublime
+*.sublime-workspace

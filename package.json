@@ -1,0 +1,32 @@
+{
+  "name": "gulp-sass-angular-base",
+  "version": "1.0.0",
+  "author": "",
+  "license": "UNLICENSED",
+  "description": "gulp-sass-angular-base",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "angular": "^1.5.5",
+    "gulp": "^3.9.1",
+    "gulp-angular-templatecache": "^1.8.0",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-connect": "^3.2.2",
+    "gulp-expect-file": "0.0.7",
+    "gulp-git": "^1.7.1",
+    "gulp-header": "^1.7.1",
+    "gulp-jshint": "^2.0.0",
+    "gulp-sass": "^2.3.0",
+    "gulp-sourcemaps": "^2.0.0-alpha",
+    "gulp-watch": "^4.3.5",
+    "jshint": "^2.9.2",
+    "jshint-stylish": "^2.1.0",
+    "lodash": "^4.11.1"
+  }
+}
